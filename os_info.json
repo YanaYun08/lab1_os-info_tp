@@ -1,0 +1,32 @@
+{
+    "os": {
+        "name": "Windows",
+        "release": "11",
+        "version": "10.0.26200",
+        "machine": "AMD64",
+        "architecture": "64bit",
+        "processor": "Intel64 Family 6 Model 154 Stepping 3, GenuineIntel"
+    },
+    "python": {
+        "version": "3.12.6",
+        "implementation": "CPython",
+        "executable": "D:\\ppp\\.venv\\Scripts\\python.exe"
+    },
+    "user": {
+        "username": "anaun",
+        "home_dir": "C:\\Users\\anaun",
+        "current_dir": "D:\\ppp"
+    },
+    "network": {
+        "hostname": "LAPTOP-UKLB562M",
+        "ip_address": "192.168.3.16"
+    },
+    "cpu": {
+        "cores_logical": 12
+    },
+    "env": {
+        "path_separator": ";",
+        "line_separator": "'\\r\\n'"
+    },
+    "collected_at": "2026-09-29T16:58:43"
+}
