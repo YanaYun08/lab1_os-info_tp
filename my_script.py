@@ -44,10 +44,6 @@ def collect_os_info() -> dict:
         "cpu": {
             "cores_logical": os.cpu_count(),
         },
-        "env": {
-            "path_separator": os.pathsep,
-            "line_separator": repr(os.linesep),
-        },
         "collected_at": datetime.now().isoformat(timespec="seconds"),
     }
     return info
