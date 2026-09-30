@@ -24,9 +24,5 @@
     "cpu": {
         "cores_logical": 12
     },
-    "env": {
-        "path_separator": ";",
-        "line_separator": "'\\r\\n'"
-    },
     "collected_at": "2026-09-29T16:58:43"
 }
